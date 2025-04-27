@@ -1,0 +1,1 @@
+This project is a simple API developed using Django Rest Framework (DRF) that allows you to perform basic CRUD (Create, Read, Update, and Delete) operations for managing product details. The data is stored in an SQLite database, which is lightweight and ideal for simple applications and development purposes.
